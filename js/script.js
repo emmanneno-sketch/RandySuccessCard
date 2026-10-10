@@ -8,7 +8,7 @@ startButton.addEventListener("click", function () {
         <h1>HEY, RANDY! ⚽</h1>
 
         <div class="photo-frame">
-            <img src="images/Randy.jpg" alt="Randy">
+            <img src="Randy.jpg" alt="Randy">
         </div>
 
         <h2>READY, CHAMPION?</h2>
@@ -166,7 +166,7 @@ function showPlayerCard() {
 
         <div class="team-players">
             <div class="player">
-                <img src="images/palmer.jpg" alt="Cole Palmer">
+                <img src="palmer.jpg" alt="Cole Palmer">
                 <p>COLE PALMER</p>
             </div>
 
@@ -176,7 +176,7 @@ function showPlayerCard() {
             </div>
 
             <div class="player">
-                <img src="images/joao-pedro.jpg" alt="Joao Pedro">
+                <img src="joao-pedro.jpg" alt="Joao Pedro">
                 <p>JOÃO PEDRO</p>
             </div>
         </div>
