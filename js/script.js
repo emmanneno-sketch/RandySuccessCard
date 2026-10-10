@@ -171,7 +171,7 @@ function showPlayerCard() {
             </div>
 
             <div class="player randy-player">
-                <img src="images/Randy.jpg" alt="Randy">
+                <img src="Randy.jpg" alt="Randy">
                 <p>RANDY 👑</p>
             </div>
 
