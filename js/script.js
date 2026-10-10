@@ -95,7 +95,7 @@ function celebrate() {
         </h1>
 
         <div class="photo-frame celebration-photo">
-            <img src="images/Randy.jpg"
+            <img src="Randy.jpg"
                  alt="Our little champion Randy">
         </div>
 
