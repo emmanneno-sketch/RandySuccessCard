@@ -70,7 +70,7 @@ function showBrotherMessage() {
         </button>
         
 <button id="teamButton">
-    WELCOME TO THE TEAM OF CHAMPIONS...THE LONDON BLUES! 💙
+    WELCOME TO THE TEAM OF CHAMPIONS...THE PRIDE OF LONDON ...THE MIGHTY BLUES! 💙
 </button>
 
     `;
