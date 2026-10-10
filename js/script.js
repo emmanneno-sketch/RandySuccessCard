@@ -70,7 +70,7 @@ function showBrotherMessage() {
         </button>
         
 <button id="teamButton">
-    MEET MY CHELSEA TEAM! 💙
+    WELCOME TO THE TEAM OF CHAMPIONS...LONDON BLUES! 💙
 </button>
 
     `;
@@ -190,7 +190,7 @@ function showPlayerCard() {
         </p>
 
         <button id="backCelebrateButton">
-            LET'S CELEBRATE! 🎉
+            LET THE WARRIOR SHINE THE PRIDE OF DONATA! 🎉
         </button>
 
         <p class="footer">Made with love by Big Bro 💙</p>
